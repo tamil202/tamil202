@@ -61,12 +61,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=tamil202&show_icons=true&locale=en&layout=compact" alt="tamil202"  stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tamil202&show_icons=true&locale=en" alt="tamil202"  stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamil202&" alt="tamil202" langs" />
-</div>
-
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tamil202&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tamil202&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamil202&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/><br/>
 
 <hr/>
