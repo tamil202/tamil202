@@ -49,4 +49,11 @@
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamil202&show_icons=true&locale=en&layout=compact" alt="tamil202" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamil202&show_icons=true&locale=en" alt="tamil202" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamil202&" alt="tamil202" /></p>
+
+
 ###
