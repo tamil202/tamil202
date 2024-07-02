@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tamilvanan!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate full stack web developer from Canada 🇨🇦</h3>
 
 <br/>
 
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Angular, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/tamil202/tamil202)**
+💬 Ask me about **Node.js, React, Angular ... or anything [here](https://github.com/tamil202/tamil202)**
 
 ⚡ Fun fact **Fun fact **I think I'm funny**
 
