@@ -10,11 +10,11 @@
 
 <div align="center">
 
-🔭 Currently working as a **Software Engineer**  
-🚀 Building scalable applications using **Angular, NestJS, Node.js**  
-🧠 Exploring **modern Angular (Signals, Signal Forms)** and backend performance  
-🛠️ Maintaining a **personal Raspberry Pi server** for self-hosted projects  
-💬 Ask me about **Angular, Node.js, NestJS, backend APIs, or system design**
+🔭 Currently working as a <b>Software Engineer</b>  
+🚀 Building scalable applications using <b>Angular, NestJS, Node.js</b>  
+🧠 Exploring <b>modern Angular (Signals, Signal Forms)</b> and backend performance  
+🛠️ Maintaining a <b>personal Raspberry Pi server</b> for self-hosted projects  
+💬 Ask me about <b>Angular, Node.js, NestJS, backend APIs, system design</b>
 
 </div>
 
@@ -30,6 +30,23 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
+</div>
+
+<hr/>
+
+<h2 align="center">✨ UI / UX & Application Quality ✨</h2>
+
+<div align="center">
+
+⚡ <b>Responsive-first design</b> across desktop, tablet, and mobile  
+🎯 <b>User-friendly interfaces</b> focused on clarity and usability  
+🧩 <b>Reusable UI components</b> with clean structure and consistency  
+🚀 <b>High-performance rendering</b> for large datasets and complex views  
+🎨 <b>Modern UI styling</b> using Tailwind CSS with minimal, clean layouts  
+🔄 <b>Smooth interactions</b> with subtle animations and transitions  
+📐 <b>Clean layouts</b> with proper spacing, typography, and accessibility  
+🧠 <b>State-driven UI</b> using Angular Signals for predictable behavior  
+
 </div>
 
 <hr/>
