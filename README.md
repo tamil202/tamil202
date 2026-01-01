@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Tamilvanan!;Software+Engineer+%7C+Full+Stack+Developer" />
 </h1>
 
-<h3 align="center">Full Stack Software Engineer from India 🇮🇳</h3>
+<h3 align="center">Software Engineer</h3>
 
 <br/>
 
@@ -34,18 +34,41 @@
 
 <hr/>
 
-<h2 align="center">✨ UI / UX & Application Quality ✨</h2>
+<h2 align="center">🔧 System, Frontend & Backend Engineering</h2>
 
 <div align="center">
 
-⚡ <b>Responsive-first design</b> across desktop, tablet, and mobile  
-🎯 <b>User-friendly interfaces</b> focused on clarity and usability  
-🧩 <b>Reusable UI components</b> with clean structure and consistency  
-🚀 <b>High-performance rendering</b> for large datasets and complex views  
-🎨 <b>Modern UI styling</b> using Tailwind CSS with minimal, clean layouts  
-🔄 <b>Smooth interactions</b> with subtle animations and transitions  
-📐 <b>Clean layouts</b> with proper spacing, typography, and accessibility  
-🧠 <b>State-driven UI</b> using Angular Signals for predictable behavior  
+⚙️ <b>System Design</b>  
+- Modular, feature-based architecture with clear separation of concerns  
+- Scalable structure for frontend, backend, and data layers  
+- Focus on performance, maintainability, and clean data flow  
+
+🧩 <b>Frontend Engineering</b>  
+- Built with <b>Angular (latest versions)</b> using modern syntax  
+- Strong usage of <b>Angular Signals</b> and <b>signal-based forms</b>  
+- Component-driven architecture with reusable and maintainable code  
+- Efficient state handling and optimized change detection  
+- REST API integration with structured data flow  
+
+🛠️ <b>Backend Engineering</b>  
+- APIs developed using <b>NestJS</b> and <b>Node.js</b>  
+- RESTful API design with validation and error handling  
+- Experience with <b>system design fundamentals</b> for scalable services  
+- <b>Docker</b> used for containerized development and deployments  
+- <b>Redis</b> for caching and performance optimization  
+
+🗄️ <b>Database & Data Layer</b>  
+- Relational database design using <b>MySQL</b>  
+- ORM experience with <b>Prisma</b> and <b>Sequelize</b>  
+- Well-structured schemas, relationships, and migrations  
+- Query optimization for performance and large datasets  
+- <b>SQLite</b> used for lightweight and self-hosted applications  
+
+🖥️ <b>Infrastructure & Environment</b>  
+- Linux fundamentals and server maintenance  
+- <b>Raspberry Pi</b> used as a personal self-hosted server  
+- Deployment and maintenance of Node.js applications  
+- Basic exposure to cloud environments and AWS concepts  
 
 </div>
 
