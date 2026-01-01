@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/tamilvanan-d-1a5925260/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://pi.cerberus-acrux.ts.net/portfolio" target="_blank">
+  <a href="https://pi.cerberus-acrux.ts.net/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
